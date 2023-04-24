@@ -14,7 +14,7 @@ Tridiv here through the realm of 0s and 1s.
 ## What am I doing now?
 
 - I am now looking for a new role either as a Software Engineer in the Computer Vision / Machine Learning domain or a funded PhD position in CV.  
-- I am trying to re-learn C++ and learn Rust, not to mention how to create multiple sources of income.  
+- I am (re-)learning C++ and Rust, not to mention how to create multiple sources of income.  
   
 ## What do I like?
 
